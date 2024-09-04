@@ -1,10 +1,13 @@
-// const number = 7;
-// if (number < 1){
-//     console.log('Got a small number')
-// }
-// console.log('Something is processing');
+const number = 7;
+if (number < 1){
+    console.log('Got a small number')
+}
+console.log('Something is processing');
+
+
 
 // //-----------while loop---------
+
 let num = 0;
 while(num < 5){
     console.log('looooooping', num);
